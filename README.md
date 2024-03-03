@@ -1,9 +1,18 @@
 # multicarriage
-[![Downloads](https://static.pepy.tech/badge/multicarriage)](https://pepy.tech/project/multicarriage)<br>
+![PyPI - Version](https://img.shields.io/pypi/v/multicarriage)
+![Pepy Total Downlods](https://img.shields.io/pepy/dt/multicarriage)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/multicarriage)
+![GitHub repo size](https://img.shields.io/github/repo-size/xyzpw/multicarriage)
+
+
 A Python module designed for writing and updating text on multiple lines using the the carriage return.<br><br>
 ![multicarriage-preview](https://github.com/xyzpw/multicarriage/assets/76017734/fea181cd-3bbe-4ad5-beec-de6518033a2d)
 
 ## Usage
+### Previewing Package
+```bash
+$ python3 -m multicarriage.demo
+```
 ### Importing Package
 ```python
 import multicarriage
